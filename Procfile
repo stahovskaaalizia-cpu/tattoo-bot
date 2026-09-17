@@ -1,0 +1,1 @@
+worker: python tattoo_bot.py
